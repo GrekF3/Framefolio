@@ -1,4 +1,4 @@
-# Photography Portfolio
+# Framefolio
 
 A responsive portfolio and booking interface for a photography studio.
 
